@@ -22,5 +22,3 @@ How to Use:
 aos bot --load bot.lua
 ```
 
-3.Customization:
-Feel free to customize the bot's behavior by modifying the code according to your preferences. You can adjust parameters such as energy thresholds, movement strategies, and combat tactics to suit your gameplay style.
